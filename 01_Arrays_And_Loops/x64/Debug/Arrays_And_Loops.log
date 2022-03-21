@@ -1,0 +1,6 @@
+﻿  Ex01_01_For_Loops.cpp
+D:\data\dev\quasar\repo\CppProgramming\Arrays_And_Loops\Ex01_01_For_Loops.cpp(165,44): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+D:\data\dev\quasar\repo\CppProgramming\Arrays_And_Loops\Ex01_01_For_Loops.cpp(165,35): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+  Arrays_And_Loops.cpp
+  Generating Code...
+  Arrays_And_Loops.vcxproj -> D:\data\dev\quasar\repo\CppProgramming\x64\Debug\01_Arrays_And_Loops.exe
